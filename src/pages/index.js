@@ -3,8 +3,8 @@ import Image from "next/image";
 export default function Home() {
   const links = [
     { name: "WFO Schedule", url: "https://wfo-days.vercel.app/" },
-    { name: "AES-GCM (Decrypt & Encrypt)", url: "https://cryptx-web.vercel.app/" }
-    { name: "BAFWEB Events", url: "https://https://bafweb-event.vercel.app/" }
+    { name: "AES-GCM (Decrypt & Encrypt)", url: "https://cryptx-web.vercel.app/" },
+    { name: "BAFWEB Events", url: "https://https://bafweb-event.vercel.app/" },
   ];
 
   return (
